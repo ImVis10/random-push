@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.luv2code.springdemo.entity.Customer;
 
-// Interface for customer service
+// Interface for customer servic
 public interface CustomerService {
 	
 	public List<Customer> getCustomers();
